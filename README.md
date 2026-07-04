@@ -1,6 +1,6 @@
 # Hi, I'm Aakarshit Sharma
 
-Frontend-focused developer transitioning into full-stack development.
+Building software by understanding rendering, state, and system architecture.
 
 I care more about *understanding systems* than just building features.
 Right now, I’m focused on strengthening fundamentals, thinking in patterns, and writing code that makes sense — not just works.
